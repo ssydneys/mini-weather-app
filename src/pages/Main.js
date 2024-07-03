@@ -36,7 +36,7 @@ const handleChange = (event) => {
 
   return (
     <div id='main' className='container'>
-      <h1>Path2Tech Weather App</h1><br />
+      <h1>Path2Tech Mini Weather App</h1><br />
     <img src={opImage} alt='Weather icons' />
     <br /><br />
       <SearchBar handleSubmit={handleSubmit} searchTerm={searchTerm} handleChange={handleChange} id={'search-city'}>
