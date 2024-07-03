@@ -1,1 +1,1 @@
-# Mini Weather Apo Project
+Mini Weather App Project
